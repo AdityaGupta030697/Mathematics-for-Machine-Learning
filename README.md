@@ -1,5 +1,5 @@
-# Machine-Learning-for-Mathematics-Coursera
-This repository contains the code for all the programming tasks of the Machine Learning for Mathematics courses taught at Coursera by Imperial College London:
+# Mathematics for Machine Learning
+This repository contains the code for all the programming tasks of the Mathematics for Machine Learning courses taught at Coursera by Imperial College London:
 
 ## Linear Algebra ([link](https://www.coursera.org/learn/linear-algebra-machine-learning))
 
