@@ -12,6 +12,7 @@ This repository contains the code for all the programming tasks of the Mathemati
 
 * [Mean/Covariance of a data set and effect of linear transformation](PCA_week1.ipynb)
 * [Distances and Angles between Images along with KNN implementation](PCA_week2.ipynb)
+* [Orthogonal Projections](PCA_week3.ipynb)
 
 
 I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from the resources, but to understand why your code/answers might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here.
