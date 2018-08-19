@@ -8,6 +8,10 @@ This repository contains the code for all the programming tasks of the Mathemati
 * [Reflecting Bear](linear-algebra/ReflectingBear.ipynb)
 * [PageRank](PageRank.ipynb)
 
+## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
+* [The Sandpit](sandpit.ipynb)
+
+
 ## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
 
 * [Mean/Covariance of a data set and effect of linear transformation](PCA_week1.ipynb)
