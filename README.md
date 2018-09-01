@@ -12,7 +12,7 @@ This repository contains the code for all the programming tasks of the Mathemati
 * [The Sandpit](sandpit.ipynb)
 * [The Sandpit 2](sandpit2.ipynb)
 * [Backpropagation](Backpropagation.ipynb)
-
+* [Gradient descent in a sandpit](Gradient_descent_sandpit.ipynb)
 
 ## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
 
